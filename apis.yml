@@ -23,13 +23,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/compaq-computer-corporation.png
 name: Compaq Computer Corporation
-description: 'Compaq Computer Corporation was an American personal-computer company founded in 1982 in
-  Houston, Texas by Rod Canion, Jim Harris, and Bill Murto. It pioneered IBM PC-compatible portable
-  computers with the 1983 Compaq Portable and grew into one of the largest PC manufacturers of the 1990s,
-  acquiring Digital Equipment Corporation in 1998. Compaq merged with Hewlett-Packard in 2002; the brand
-  was gradually retired and its operations absorbed into HP. It survives in the API Evangelist network as a
-  historical portfolio-company profile (backed by kleiner-perkins); it operates no present-day developer
-  portal, public API, or SDK surface, as compaq.com now resolves to HP infrastructure.'
+description: Compaq Computer Corporation was an American personal-computer company founded in 1982 in
+  Houston, Texas by Rod Canion, Jim Harris, and Bill Murto. It pioneered IBM PC-compatible portable computers
+  with the 1983 Compaq Portable and grew into one of the largest PC manufacturers of the 1990s, acquiring
+  Digital Equipment Corporation in 1998. Compaq merged with Hewlett-Packard in 2002; the brand was gradually
+  retired and its operations absorbed into HP. It survives in the API Evangelist network as a historical
+  portfolio-company profile (backed by kleiner-perkins); it operates no present-day developer portal,
+  public API, or SDK surface, as compaq.com now resolves to HP infrastructure.
 url: https://raw.githubusercontent.com/api-evangelist/compaq-computer-corporation/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -39,7 +39,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-15'
 tags:
 - Company
 - Enterprise
@@ -58,3 +58,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-status: defunct
